@@ -91,7 +91,7 @@ namespace UtilityWPF
             }
             catch (Exception ex)
             {
-
+                string err = ex.Message;
 
             }
 
