@@ -407,8 +407,7 @@ namespace UtilityWPF
 
 
             checkPopUpOpen = false;
-            //driver.Dispose();
-            //Marshal.ReleaseComObject(driver); 
+            
         }
 
 
